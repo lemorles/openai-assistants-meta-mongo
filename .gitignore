@@ -1,0 +1,14 @@
+dist/*
+node_modules
+.env
+tmp/*
+!tmp/.gitkeep
+
+*_sessions
+*tokens
+.wwebjs*
+
+*.log
+*qr.png
+
+.DS_Store
